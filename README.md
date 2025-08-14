@@ -26,5 +26,4 @@ A complete web-based POS and Management System for salons with appointment sched
 ![Dashboard Screenshot](screenshots/dashboard.png)
 ![Dashboard Screenshot](screenshots/order.png)
 ![Dashboard Screenshot](screenshots/pos.png)
-![Dashboard Screenshot](screenshots/table.png)
 

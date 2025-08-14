@@ -20,3 +20,11 @@ A complete web-based POS and Management System for salons with appointment sched
    ```bash
    git clone https://github.com/YOUR-USERNAME/salon-pos-management.git
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/login.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/order.png)
+![Dashboard Screenshot](screenshots/pos.png)
+![Dashboard Screenshot](screenshots/table.png)
+
